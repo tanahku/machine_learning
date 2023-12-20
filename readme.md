@@ -1,1 +1,3 @@
-The source code of machine learning model's API of TanahKu: Soil Classification and Crop Recommendation App 
+# TanahKu - Machine Learning Repository
+The source code of machine learning model's of TanahKu: Soil Classification and Crop Recommendation App
+# Dataset
